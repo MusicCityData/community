@@ -1,34 +1,24 @@
-# Music City Data User Group (MCDUG)
+# Code of Conduct
 
-Welcome to the community repository for the Music City Data User Group (MCDUG).
+Music City Data User Group (MCDUG) events seek to create a respectful, friendly, patient, considerate, and inclusive event experience where all participants feel welcome.
 
-This repository contains community governance and organizational documents for the group.
+We ask all participants to honor this Code of Conduct. Disruptive, intolerant, harassing, or inappropriate behavior will not be tolerated. Organizers reserve the right to remove participants who violate this Code of Conduct from meetings, events, or community spaces.
 
-## Documents
-
-* [Code of Conduct](CODE_OF_CONDUCT.md)
-
-## About MCDUG
-
-The Music City Data User Group (MCDUG) is Nashville's SQL Server and Microsoft Data Platform community.
-
-Our mission is to provide opportunities for learning, networking, and knowledge sharing across the Microsoft data platform ecosystem, including:
-
-* SQL Server
-* Azure SQL
-* Database Administration
-* Database Development
-* Data Architecture
-* PowerShell
-* Related Microsoft data technologies
+We do not tolerate harassment or discrimination. While this list cannot be exhaustive, we welcome and support participation regardless of age, gender, gender identity or expression, culture, ethnicity, language, national origin, profession, race, religion, sexual orientation, socioeconomic status, physical or psychological ability, or technical experience level.
 
 Whether you are attending your first user group meeting or have decades of experience in the data community, you are welcome here.
 
-## Contact
+If you experience or witness behavior that violates this Code of Conduct, please contact a Music City Data organizer in person or via email at:
 
-* [organizers@musiccitydata.org](mailto:organizers@musiccitydata.org)
+**[organizers@musiccitydata.org](mailto:organizers@musiccitydata.org)**
 
-## Join the Community
+All reports will be handled respectfully and as confidentially as possible.
 
-* Meetup: https://www.meetup.com/music-city-data-user-group
-* Community URL: https://musiccitydata.org
+This Code of Conduct applies to all Music City Data User Group activities, including:
+
+* In-person meetings
+* Virtual meetings
+* Online community spaces
+* Social events organized by the group
+
+*Last Updated: June 2026*
