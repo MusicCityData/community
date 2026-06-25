@@ -10,5 +10,3 @@
 
 ## Contents
 
-* `slides.pdf` — presentation slides *(to be added)*
-* `demo/` — demo scripts / sample code *(if any)*
