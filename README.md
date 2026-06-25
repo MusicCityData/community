@@ -1,34 +1,26 @@
 # Music City Data User Group (MCDUG)
 
-Welcome to the community repository for the Music City Data User Group (MCDUG).
+Nashville's SQL Server & Microsoft Data Platform community.
 
-This repository contains community governance and organizational documents for the group.
+**For meeting schedules, RSVPs, speakers, and announcements, visit our [Meetup](https://www.meetup.com/music-city-data-user-group).**
 
-## Documents
+This repository is the home for our community **Code of Conduct**.
 
-* [Code of Conduct](CODE_OF_CONDUCT.md)
+## Code of Conduct
 
-## About MCDUG
+All MCDUG meetings, events, and online spaces are governed by our
+[Code of Conduct](CODE_OF_CONDUCT.md).
 
-The Music City Data User Group (MCDUG) is Nashville's SQL Server and Microsoft Data Platform community.
+To report a concern, contact us at
+[conduct@musiccitydata.org](mailto:conduct@musiccitydata.org).
 
-Our mission is to provide opportunities for learning, networking, and knowledge sharing across the Microsoft data platform ecosystem, including:
+## Presentations
 
-* SQL Server
-* Azure SQL
-* Database Administration
-* Database Development
-* Data Architecture
-* PowerShell
-* Related Microsoft data technologies
+Slides and demos from past meetings — see [presentations/](presentations/). Many speakers
+host their own slides (linked there); we also host decks for speakers who don't.
 
-Whether you are attending your first user group meeting or have decades of experience in the data community, you are welcome here.
-
-## Contact
-
-* [organizers@musiccitydata.org](mailto:organizers@musiccitydata.org)
-
-## Join the Community
+## Links
 
 * Meetup: https://www.meetup.com/music-city-data-user-group
-* Community URL: https://musiccitydata.org
+* Website: https://musiccitydata.org
+* Contact: [organizers@musiccitydata.org](mailto:organizers@musiccitydata.org)
