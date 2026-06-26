@@ -1,7 +1,8 @@
 # Presentations
 
 Slides and demos from Music City Data User Group meetings. Many speakers host their own
-slides — the links below point to wherever each deck lives.
+slides — the links below point to wherever each deck lives. Looking for the welcome
+slides shown at the start of each meeting? They're in [../meeting-intro/](../meeting-intro/).
 
 ## Meetings
 
