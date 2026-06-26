@@ -10,7 +10,7 @@ Whether you are attending your first user group meeting or have decades of exper
 
 If you experience or witness behavior that violates this Code of Conduct, please contact a Music City Data organizer in person or via email at:
 
-**[organizers@musiccitydata.org](mailto:organizers@musiccitydata.org)**
+**[conduct@musiccitydata.org](mailto:conduct@musiccitydata.org)**
 
 All reports will be handled respectfully and as confidentially as possible.
 
