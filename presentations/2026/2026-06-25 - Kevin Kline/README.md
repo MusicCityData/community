@@ -6,7 +6,9 @@
 
 ## Abstract
 
-<Add session abstract.>
+<!-- TODO: add session abstract -->
 
 ## Contents
+
+* [Futureproof your data career with AI.potx](Futureproof%20your%20data%20career%20with%20AI.potx) — slide deck
 
