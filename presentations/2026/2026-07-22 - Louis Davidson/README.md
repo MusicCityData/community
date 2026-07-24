@@ -29,4 +29,5 @@ MVP. Learn more at [drsql.link](http://drsql.link/).
 
 ## Contents
 
-Slides hosted by the speaker — see [drsql.link](http://drsql.link/).
+* [Relational Database Design.pptx](Relational%20Database%20Design.pptx) — speaker slides
+* [MusicCityDataUserGroup_Intro.pptx](MusicCityDataUserGroup_Intro.pptx) — meeting welcome/intro slides
