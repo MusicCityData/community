@@ -15,7 +15,8 @@ Some speakers host their own slides — where they do, we link straight to them.
 ## Welcome slides
 
 The intro slides shown at the start of each meeting (announcements, sponsors,
-what's coming up) are in [meeting-intro/](meeting-intro/).
+what's coming up) are in each meeting's folder under
+**[presentations/](presentations/)**.
 
 ## About MCDUG
 
