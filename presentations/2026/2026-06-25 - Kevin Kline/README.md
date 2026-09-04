@@ -25,4 +25,4 @@ can lead to a fireproof and futureproof career. Learn them today!
 ## Contents
 
 * [Futureproof your data career with AI.potx](Futureproof%20your%20data%20career%20with%20AI.potx) — speaker slides
-* [MusicCityDataUserGroup_Intro.pptx](MusicCityDataUserGroup_Intro.pptx) — meeting welcome/intro slides
+* [MusicCityDataUserGroup_Intro.pdf](MusicCityDataUserGroup_Intro.pdf) — meeting welcome/intro slides

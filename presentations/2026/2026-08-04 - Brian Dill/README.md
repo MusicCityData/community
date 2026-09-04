@@ -24,4 +24,4 @@ and of course DuckDB!
 ## Contents
 
 * [DuckDB 101_slides.pptx](DuckDB%20101_slides.pptx) — speaker slides
-* [MusicCityDataUserGroup_Intro.pptx](MusicCityDataUserGroup_Intro.pptx) — meeting welcome/intro slides
+* [MusicCityDataUserGroup_Intro.pdf](MusicCityDataUserGroup_Intro.pdf) — meeting welcome/intro slides

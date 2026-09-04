@@ -39,4 +39,4 @@ the right tools and solutions within the Microsoft data & AI ecosystem.
 ## Contents
 
 * [SQL2025HighlightsAndHiddenGems_MusicCityData_20260902.pdf](SQL2025HighlightsAndHiddenGems_MusicCityData_20260902.pdf) — speaker slides
-* [MusicCityDataUserGroup_Intro.pptx](MusicCityDataUserGroup_Intro.pptx) — meeting welcome/intro slides
+* [MusicCityDataUserGroup_Intro.pdf](MusicCityDataUserGroup_Intro.pdf) — meeting welcome/intro slides
