@@ -1,0 +1,45 @@
+# Music City Data User Group — slides repo
+# This repo holds finished decks and READMEs. Everything below is a working
+# file that some tool left behind, and none of it belongs in a public archive.
+
+# LibreOffice / OpenOffice
+.~lock.*#
+*.tmp
+
+# Microsoft Office autosave, recovery and owner files
+~$*
+*.asd
+*.wbk
+*.~vsd*
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+.directory
+.Trash-*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Archives and installers — decks and demos only, please
+*.zip
+*.7z
+*.rar
+*.msi
+*.exe
